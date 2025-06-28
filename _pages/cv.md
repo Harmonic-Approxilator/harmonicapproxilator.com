@@ -20,18 +20,24 @@ Work experience
 ======
 * 2024-current: Teaching assistant
   * University of Orleans
-  * Responsible for exercice classes (Travaux dirigés) in Thermodynamics for first year undergrad. In the second semester of 2024 also taught a laser physics lab for first year master students (ICMS).
+  * Tutorials and labs (Travaux dirigés et TP ) :
+    * Thermodynamics (first year undergrad/L1) 2024-current.
+    * Laser physics (first year master/M1 (ICMS)) 2024-2024.
+    * Continuum mechanics (third year undergrad/L3) 2025-current.
   * Supervisor:
-    * Thermodynamics : Prof. Y Vaills.
+    * Thermodynamics/Continuum mechanics : Prof. Y Vaills.
     * Laser physics lab : Prof. T Tillocher.
 
 * 2023-2026: Doctoral researcher
   * CNRS- Laboratoire de la Physique et Chimie de l'Environement et de l'Espace (LPC2E)
   * PhD thesis, continuing the work on extended theories of electromagnetism.
   * Supervisor : Prof. A. Spallicci.
+  
+* 06/2025: Visiting scientist at la Scuola Superiore Meridionale (Napoli).
+  * Collaboration with Pr. Salvatore Capozziello, Emmanuele Battista and Aymeric Garnier.
 
 * 2022-2023: Independent researcher
-  * Self employed
+  * Self employed.
   * Joined independently a research program on extended theories of electrodynamics to acquire more experience.
   * Collaborators : Prof. A. Spallicci, Prof. J. Helayël-Neto, Prof. N. Djeghloul.
   
@@ -66,6 +72,17 @@ Publications and Talks
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Students Supervision 
+======
+* Tom Cooper (M1 student) 04/2023-06/2023.
+  * Topic : Problem of time in quantum mechanics.
+* Elie Daoura (M2 student) 12/2023-02/2024.
+  * Topic : Extended theories of electrodynamics as dark matter candidates.
+* Aymeric Garnier (M1-M2 student) 04/2024-03/2025.
+  * Topic : Gravitationnal self-force for massless particles and electromagnetic radiation .
+* Fanny Lassalle (L3 student) 05/2025-06/2025.
+  * Topic : Introduction to the standard model of cosmology, Hubble tension and alternatives.
 
 Languages
 ======

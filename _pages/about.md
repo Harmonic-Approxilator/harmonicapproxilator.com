@@ -27,7 +27,7 @@ I'm also extremely interested in General Relativity, Classical and Quantum Field
 
 ## Recent visits
 Scuola Superiore Meridionale - June 2025
-
+![pic](images/SSM.jpg){: width="300"px}
 ## Other hobbies
 In my free time, I like to read about the philosophy of science, comic books , play video games (especially RPGs), watch movies and drink coffee (I went down the espresso rabbit hole a while ago). I also have been practicing Muay thai for some years now semi-regularly. 
 

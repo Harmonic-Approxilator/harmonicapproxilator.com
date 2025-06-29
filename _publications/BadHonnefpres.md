@@ -9,4 +9,4 @@ date: 20-08-2024
 venue: 'Physikzentrum, Bad Honnef, Germany'
 ---
 
-![pic](_publications/BadHonnef.jpg){: width="300"px}
+![pic](BadHonnef.jpg){: width="300"px}

@@ -8,5 +8,5 @@ date: 08-07-2024
 venue: '‘Gabriele d’Annunzio’ University, Pescara, Italy'
 ---
 
-![pic](images/group_small.jpg){: width="300"px}
+![pic](group_small.jpg){: width="300"px}
 

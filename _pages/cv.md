@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Theoretical and Mathematical Physics, University of Orleans, 2026 (expected)
+* Ph.D in Theoretical and Mathematical Physics, University of Orleans, 2026
 * M.Sc in Theoretical and Mathematical Physics, University of Oran 1 Ahmed Benbella, 2021
 * Bachelor degree in Radiation Physics, Université of Sciences and Technology of Oran
 Mohamed Boudiaf Physics faculty (USTO), 2019
 
 Work experience
 ======
-* 2024-current: Teaching assistant
+* 2024-2026: Teaching assistant
   * University of Orleans
   * Tutorials and labs (Travaux dirigés et TP ) :
     * Thermodynamics (first year undergrad/L1) 2024-current.
@@ -83,7 +83,8 @@ Students Supervision
   * Topic : Gravitationnal self-force for massless particles and electromagnetic radiation .
 * Fanny Lassalle (L3 student) 05/2025-06/2025.
   * Topic : Introduction to the standard model of cosmology, Hubble tension and alternatives.
-
+* Lucile Nguyen-Vien (L3 student) 02/2026-06/2026.
+  * Topic : Modified electrodynamics and its canonical structure.   
 Languages
 ======
   * French :
